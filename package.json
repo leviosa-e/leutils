@@ -1,0 +1,23 @@
+{
+  "name": "leutils",
+  "version": "1.0.0",
+  "description": "basic utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leviosa-e/leutils.git"
+  },
+  "author": "zhoupeng.levi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leviosa-e/leutils/issues"
+  },
+  "homepage": "https://github.com/leviosa-e/leutils#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
